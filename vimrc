@@ -6,6 +6,8 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
