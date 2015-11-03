@@ -1,6 +1,7 @@
 " set syntax on 
 syntax on 
 set nu
+set hlsearch
 filetype plugin indent on 
 set tabstop=4
 set shiftwidth=4
