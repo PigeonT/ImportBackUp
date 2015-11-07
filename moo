@@ -1,1 +1,1 @@
-have you mooed today?
+yes, i have mooed today!
