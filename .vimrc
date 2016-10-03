@@ -7,7 +7,8 @@ set shiftwidth=4
 set expandtab
 set hlsearch
 set backspace=2
-colorscheme desert
+colorscheme desert 
+
 
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
@@ -51,3 +52,9 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
+"
+"
+"change vimdiff color scheme
+if &diff
+    colorscheme evening
+endif

@@ -1,0 +1,24 @@
+14.09.2016 21:37:14 - ERROR: Using Xinerama instead of RandR. This option should be avoided at all cost because it does not refresh the list of screens, so you cannot configure displays at runtime. Please check if your driver really does not support RandR and disable this option as soon as you can.
+14.09.2016 21:37:14 - i3 4.12 (2016-03-06, branch "4.12") starting
+14.09.2016 21:37:14 - Parsing configfile /home/pigeon/.i3/config
+14.09.2016 21:37:14 - deciding for version 4 due to this line: # i3 config file (v4)
+14.09.2016 21:37:14 - [libi3] libi3/font.c Using X font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+ERROR: Another window manager seems to be running (X error 10)
+14.09.2016 21:37:20 - ERROR: Using Xinerama instead of RandR. This option should be avoided at all cost because it does not refresh the list of screens, so you cannot configure displays at runtime. Please check if your driver really does not support RandR and disable this option as soon as you can.
+14.09.2016 21:37:20 - i3 4.12 (2016-03-06, branch "4.12") starting
+14.09.2016 21:37:20 - Parsing configfile /home/pigeon/.i3/config
+14.09.2016 21:37:20 - deciding for version 4 due to this line: # i3 config file (v4)
+14.09.2016 21:37:20 - [libi3] libi3/font.c Using X font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+ERROR: Another window manager seems to be running (X error 10)
+14.09.2016 21:37:27 - ERROR: Using Xinerama instead of RandR. This option should be avoided at all cost because it does not refresh the list of screens, so you cannot configure displays at runtime. Please check if your driver really does not support RandR and disable this option as soon as you can.
+14.09.2016 21:37:27 - i3 4.12 (2016-03-06, branch "4.12") starting
+14.09.2016 21:37:27 - Parsing configfile /home/pigeon/.i3/config
+14.09.2016 21:37:27 - deciding for version 4 due to this line: # i3 config file (v4)
+14.09.2016 21:37:27 - [libi3] libi3/font.c Using X font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+ERROR: Another window manager seems to be running (X error 10)
+14.09.2016 21:37:32 - ERROR: Using Xinerama instead of RandR. This option should be avoided at all cost because it does not refresh the list of screens, so you cannot configure displays at runtime. Please check if your driver really does not support RandR and disable this option as soon as you can.
+14.09.2016 21:37:32 - i3 4.12 (2016-03-06, branch "4.12") starting
+14.09.2016 21:37:32 - Parsing configfile /home/pigeon/.i3/config
+14.09.2016 21:37:32 - deciding for version 4 due to this line: # i3 config file (v4)
+14.09.2016 21:37:32 - [libi3] libi3/font.c Using X font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+ERROR: Another window manager seems to be running (X error 10)
