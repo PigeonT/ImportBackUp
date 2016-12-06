@@ -1,0 +1,15 @@
+#Some Important Websites
+
+##Freenode
+
+// Now you can also set your registered nickname and password for freenode:
+$ /set irc.server.freenode.sasl_username # "ReplaceThisWithYourRegisteredNickname" 
+$ /set irc.server.freenode.sasl_password # "ReplaceThisWithYourNickname'sPassword"
+Now you should be all set to /connect freenode or /reconnect freenode.
+$ /connect freenode
+
+
+http://fixato.org/guides/setting_up_weechat.html
+
+[Website](https://gist.github.com/timani/92a480ad6f7cbe66534e)
+
